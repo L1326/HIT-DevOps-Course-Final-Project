@@ -16,7 +16,7 @@ ifconfig ens33:1 10.0.0.11 netmask 255.255.255.0 up
 
 Create a directory for your project.  
 
-Pull docker images from this GitHub repo:  
+Pull the following docker images from this GitHub repo:  
 - my-tomcat
 - myjenkins  
 
